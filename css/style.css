@@ -1,0 +1,139 @@
+.btn {
+  background: #009688;
+  border-radius: 6px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 17px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+
+.nav-center {
+  justify-content: center;
+  background-color: #009688;
+
+  padding: 10px 10% 10px 10%;
+}
+
+.nav_color {
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+.nav_padding {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #009688;
+}
+
+.home:hover {
+  background-color: #027468;
+}
+
+.heading-div {
+  text-align: center;
+  background-color: white;
+  margin-top: 80px;
+}
+
+.heading_des {
+  display: block;
+  padding: auto;
+  margin: 10% auto 4%;
+  width: 500px;
+  color: #555555;
+  font-size: 2rem;
+}
+
+.crop-doctor {
+  color: #009688;
+}
+
+.img-size {
+  box-sizing: border-box;
+  height: 350px;
+  overflow: hidden;
+  width: 450px;
+}
+
+.floating {
+  float: left;
+}
+
+/* community css */
+.community {
+  justify-content: center;
+
+  color: green;
+
+  margin: auto;
+}
+
+.pages-heading {
+  font-size: 2rem;
+  text-align: center;
+  color: white;
+  padding-top: 8%;
+  padding-bottom: 2%;
+  background-color: #009688;
+  margin-bottom: 0;
+}
+
+.pages-section {
+  background-color: azure;
+}
+
+.blog {
+  justify-content: center;
+
+  color: green;
+
+  margin: auto;
+}
+
+.footer-clr {
+  background-color: black;
+  margin-top: 100px;
+  padding: 50px;
+  color: aliceblue;
+}
+
+.blog-color {
+  background-color: azure;
+}
+
+.topnav {
+  padding: 1.3% 10% 1% 10%;
+  background-color: #0f6d63;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Sign_boton {
+  border-radius: 10px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  background: #0f6d63;
+  padding: 10px 20px 10px 20px;
+  border: solid #e6edf2 1px;
+  text-decoration: none;
+}
+
+.Sign_boton:hover {
+  background: #0d5950;
+  text-decoration: none;
+  color: #fff;
+}
+
+.Search_icon {
+  background: #009688;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
